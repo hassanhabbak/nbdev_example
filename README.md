@@ -4,7 +4,7 @@
 
 This file will become your README and also the index of your documentation.
 
-https://hassanhabbak.github.io/nbdev_example/
+https://hassanhabbak.github.io/nbdev_example
 
 ## Install
 
